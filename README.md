@@ -1,6 +1,6 @@
 # real-estate-analysis
 The secondary data set for this statistical study has been obtained from Kaggel. This data set includes information about one room apartment real estate in Moscow. The aim of this statistical analysis is to make use of various R functionalities such as plot, bar plot, histogram, skewness, kurtosis, standard deviation and the summary function to study the real estate market in Moscow.
-# ------------------------------------------------------------------------------
+
 This data set includes the following variables:
 metro (nominal) : The nearest metro station to to the apartment
 price (numerical) : The rent price for the apartment
